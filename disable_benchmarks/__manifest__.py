@@ -3,11 +3,7 @@
     'version': '16.0',
     'summary': 'Désactive la route /web/benchmarks, même sans le module web',
     'description': """
-        <p><strong>Fonctionnalités principales :</strong></p>
-        <ul>
-            <li>Désactive la route /web/benchmarks</li>
-        </ul>
-        <p>Pour plus d'informations, visitez notre <a href="https://votresite.com">site web</a>.</p>
+        Désactive la route /web/benchmarks permettant d'augmenter la sécurité.
     """,
     'author': 'Tripode-Services',
     'depends': [],  # Pas de dépendance requise
@@ -15,4 +11,5 @@
     'application': False,
     'website': 'https://www.tripode-services.fr',
     'license': 'GPL-3',
+    "images":['static/description/cover.png'],
 }
