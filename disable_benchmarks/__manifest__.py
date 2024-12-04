@@ -12,4 +12,5 @@
     'website': 'https://www.tripode-services.fr',
     'license': 'GPL-3',
     "images":['static/description/cover.png'],
+    'currency': "EUR",
 }
